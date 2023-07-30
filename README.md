@@ -1,4 +1,6 @@
 # Spatio-temporal-Trend-Analysis
+This jupyter notebook houses python codes for analysis of the spatio-temporal trend mapping of precipitation and its extremes across Afghanistan.
+
 ## Article: Spatio-temporal trend mapping of precipitation and its extremes across Afghanistan (1951-2010)
 ### Author: Santosh Dhungana
 ### Citation: Aliyar, Q., Dhungana, S. & Shrestha, S. Spatio-temporal trend mapping of precipitation and its extremes across Afghanistan (1951–2010). Theor Appl Climatol 147, 605–626 (2022).
